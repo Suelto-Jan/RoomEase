@@ -1,0 +1,20 @@
+{
+  "name": "appdev",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Janmark M. Suelto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suelto-Jan/RoomEase.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Suelto-Jan/RoomEase/issues"
+  },
+  "homepage": "https://github.com/Suelto-Jan/RoomEase#readme",
+  "description": ""
+}
